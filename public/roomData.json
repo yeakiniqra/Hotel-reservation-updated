@@ -1,0 +1,131 @@
+{
+    "standard": [
+        {
+            "id": 1,
+            "image": "/images/st1.webp",
+            "price": 100
+        },
+        {
+            "id": 2,
+            "image": "/images/st2.webp",
+            "price": 100
+        },
+        {
+            "id": 3,
+            "image": "/images/st3.webp",
+            "price": 100
+        },
+        {
+            "id": 4,
+            "image": "/images/st4.webp",
+            "price": 100
+        },
+        {
+            "id": 5,
+            "image": "/images/st5.webp",
+            "price": 100
+        },
+        {
+            "id": 6,
+            "image": "/images/st6.webp",
+            "price": 100
+        }
+    ],
+
+    "deluxe": [
+        {
+            "id": 1,
+            "image": "/images/dl1.webp",
+            "price": 150
+        },
+        {
+            "id": 2,
+            "image": "/images/dl2.webp",
+            "price": 150
+        },
+        {
+            "id": 3,
+            "image": "/images/dl3.webp",
+            "price": 150
+        },
+        {
+            "id": 4,
+            "image": "/images/dl4.webp",
+            "price": 150
+        },
+        {
+            "id": 5,
+            "image": "/images/dl5.webp",
+            "price": 150
+        },
+        {
+            "id": 6,
+            "image": "/images/dl6.webp",
+            "price": 150
+        }
+    ],
+    "premium": [
+        {
+            "id": 1,
+            "image": "/images/pr1.webp",
+            "price": 200
+        },
+        {
+            "id": 2,
+            "image": "/images/pr2.webp",
+            "price": 200
+        },
+        {
+            "id": 3,
+            "image": "/images/pr3.webp",
+            "price": 200
+        },
+        {
+            "id": 4,
+            "image": "/images/pr4.webp",
+            "price": 200
+        },
+        {
+            "id": 5,
+            "image": "/images/pr5.webp",
+            "price": 200
+        },
+        {
+            "id": 6,
+            "image": "/images/pr6.webp",
+            "price": 200
+        }
+    ],
+    "platinum": [
+        {
+            "id": 1,
+            "image": "/images/pt1.webp",
+            "price": 250
+        },
+        {
+            "id": 2,
+            "image": "/images/pt2.webp",
+            "price": 250
+        },
+        {
+            "id": 3,
+            "image": "/images/pt3.webp",
+            "price": 250
+        },
+        {
+            "id": 4,
+            "image": "/images/pt4.webp",
+            "price": 250
+        },
+        {
+            "id": 5,
+            "image": "/images/pt5.webp",
+            "price": 250
+        },
+        {
+            "id": 6,
+            "image": "/images/pt6.webp",
+            "price": 250
+        }
+    ]
+}
